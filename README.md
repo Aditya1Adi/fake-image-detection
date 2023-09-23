@@ -38,6 +38,8 @@ cd fake-image-detection
 3. Place your real and fake image datasets in the appropriate folders (`real_images/` and `fake_images/`).
 
 
+
+
 ## Contributing
 
 Contributions to this project are welcome! Here are some ways you can contribute:
