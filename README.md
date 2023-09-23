@@ -37,33 +37,6 @@ cd fake-image-detection
 
 3. Place your real and fake image datasets in the appropriate folders (`real_images/` and `fake_images/`).
 
-## Usage
-
-### Training
-
-To train the fake image detection model, run the following command:
-
-```shell
-python train.py
-```
-
-### Evaluation
-
-To evaluate the model's performance, run the following command:
-
-```shell
-python evaluate.py
-```
-
-### Inference
-
-To make predictions on a new image, run the following command:
-
-```shell
-python predict.py --image <image_path>
-```
-
-Replace `<image_path>` with the path to the image you want to classify.
 
 ## Contributing
 
